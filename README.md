@@ -13,4 +13,4 @@ App is developed by 4 students of School od Electrical Engineering in Belgrade, 
 ## Tech used
 - HTML
 - CSS
-- JavaScript# linear_regression_app
+- JavaScript
